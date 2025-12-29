@@ -24,7 +24,7 @@ Foi construída com Java, Spring Boot e Gradle.
 - DELETE /products/{id} — Remove um produto
 
 ## Collection Insomnia
-1. Baixe a collection [aqui]https://github.com/gnocete/HackerRanktemComparison/blob/master/Insomnia_2025-12-29.yaml).
+1. Baixe a collection [aqui](https://github.com/gnocete/HackerRanktemComparison/blob/master/Insomnia_2025-12-29.yaml).
 2. No Insomnia, clique em **Import/Export** > **Import Data** > **From File**.
 3. Selecione o arquivo baixado para importar os endpoints.
 
